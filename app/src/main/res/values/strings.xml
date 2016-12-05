@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubDemo</string>
+
+    <string name="key_word_hint">请输入关键字</string>
+</resources>
